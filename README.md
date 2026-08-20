@@ -25,4 +25,4 @@ Business Impact:
 ---
 Dashboard:
 
-![Dashboard](/Dashboard.png)
+![Dashboard](Dashboard/Dashboard.png)
